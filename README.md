@@ -1,6 +1,6 @@
 # ICT171 Assignment 2 - 35441055 | Ringor
 This repository serves as the documentation of the creation of my website. 
-[Assignment 1 Proposal for this website](
+[Assignment 1 Proposal for this website](https://github.com/jerrngs16/ICT171-A2-Documentation/blob/main/A1%20Proposal)
 
 # > Website Link (URL)
 https://villanuevapooltable.store
