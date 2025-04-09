@@ -9,13 +9,18 @@ https://villanuevapooltable.store
 [16.16.181.69](http://16.16.181.69/)
 
 # > Website / Server Details
-The website is hosted on an Amazon EC2 Instance.
-WordPress has been installed onto the website.
-Apache is also used.
-MySQL was used for database.
+Hosting
+> Hosting Provider: Amazon Web Services (AWS)
+> Instance Type: Amazon EC2 Instance
+> Operating System: Ubuntu Server
 
+Other Services / Technologies Used
+> Web Server: Apache
+> Content Management System (CMS): WordPress
+> Database: MySQL
+> Scripting Language: PHP
 
-# License
+# > License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/jerrngs16/ICT171-A2-Documentation/blob/main/LICENSE) file for details.
 Source from [here](https://opensource.org/license/mit)
 
