@@ -13,6 +13,6 @@ WordPress has been
 
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/jerrngs16/ICT171-A2-Documentation/blob/main/LICENSE) file for details.
 
 
