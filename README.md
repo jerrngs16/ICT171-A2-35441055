@@ -5,7 +5,7 @@ This repository serves as the documentation of the creation of my website.
 https://villanuevapooltable.store
 
 # > IP Address
-16.16.181.69
+[16.16.181.69](http://16.16.181.69/)
 
 # > Website / Server Details
 The website is hosted on an Amazon EC2 Instance.
